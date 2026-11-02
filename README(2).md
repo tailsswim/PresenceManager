@@ -17,7 +17,7 @@ Le deuxième TP consistait à créer l'interface du tableau de bord pour les for
 ### 📸 Capture d'écran du Tableau de bord (TP02)
 *(Assurez-vous d'avoir uploadé l'image dans le dépôt avec le nom `dashboard_screenshot.png` ou modifiez le nom ci-dessous selon votre fichier)*
 
-![Capture d'écran du Tableau de bord](dashboard_screenshot.png)
+![Capture d'écran du Tableau de bord](Screenshot 2026-11-02 173433.png)
 
 ---
 *Dépôt GitHub mis à jour avec les réalisations des TP01 et TP02.*
